@@ -1,4 +1,4 @@
-## Calico Mafia
+## 🐱 Calico Mafia
 ---
 # Crew Roster
 - happycat - Daja
